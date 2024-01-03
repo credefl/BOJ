@@ -21,3 +21,7 @@ public class Main {
         System.out.print(max);
     }
 }
+/* comment
+3번째 루프에서 j+2하는 실수가 있었다.
+곧바로 수정 후 통과하였다.
+*/
