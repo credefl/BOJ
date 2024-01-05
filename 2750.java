@@ -15,3 +15,6 @@ public class Main {
             System.out.println(arr[i]);
     }
 }
+/* comment
+* 간단한 정렬 문제
+*/
